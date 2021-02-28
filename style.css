@@ -576,3 +576,11 @@ body {
         font-size: 1.4em
     }
 }
+
+.attribute {
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+
+    color: white;
+}
